@@ -1,6 +1,6 @@
 {
   "name": "tuskscript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lightweight Walrus Client for Typescript",
   "main": "index.js",
   "homepage": "https://github.com/Sorbin/tuskscript#readme",
